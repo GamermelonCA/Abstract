@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_ward"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 0}, "model": "minecraft:item/music_disc_ward"},
+    { "predicate": {"custom_model_data": 1}, "model": "minecraft:item/gamermelon/Lush"},
+    { "predicate": {"custom_model_data": 2}, "model": "minecraft:item/gamermelon/Bricks"},
+    { "predicate": {"custom_model_data": 3}, "model": "minecraft:item/gamermelon/100"}
+  ]
+}
