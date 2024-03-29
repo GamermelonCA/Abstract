@@ -1,0 +1,34 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/carved_pumpkin"
+	},
+	"overrides": [
+	
+		{ "predicate": { "custom_model_data":0 }, "model": "block/carved_pumpkin" },
+		{ "predicate": { "custom_model_data":1 }, "model": "item/lithium/cig" },
+		{ "predicate": { "custom_model_data":2 }, "model": "block/carved_pumpkin" },
+		{ "predicate": { "custom_model_data":3 }, "model": "item/snazz/black_shroom_pet" },
+		{ "predicate": { "custom_model_data":4 }, "model": "item/snazz/black_axolotl" },
+		{ "predicate": { "custom_model_data":5 }, "model": "item/hats/sprout" },
+		{ "predicate": { "custom_model_data":6 }, "model": "item/hats/wizardhat" },
+		{ "predicate": { "custom_model_data":7 }, "model": "item/hats/pokemonhat" },
+		{ "predicate": { "custom_model_data":8 }, "model": "item/hats/irshat" },
+		{ "predicate": { "custom_model_data":9 }, "model": "item/kerker/white_axolotl" },
+		{ "predicate": { "custom_model_data":10 }, "model": "item/tea/tea_axolotl" },
+		{ "predicate": { "custom_model_data":11 }, "model": "block/carved_pumpkin" },
+
+		{ "predicate": { "custom_model_data":32457 }, "model": "item/pauley/pauleygoggles" },
+		{ "predicate": { "custom_model_data":32458 }, "model": "block/carved_pumpkin" },
+
+		{ "predicate": { "custom_model_data":48624 }, "model": "item/fayeth/reef" },
+		{ "predicate": { "custom_model_data":48625 }, "model": "block/carved_pumpkin" },
+
+		{ "predicate": { "custom_model_data":65952 }, "model": "item/snazz/hornandcrown" },
+		{ "predicate": { "custom_model_data":65953 }, "model": "block/carved_pumpkin" },
+
+		{ "predicate": { "custom_model_data":87652 }, "model": "item/kerker/cercercrown" },
+		{ "predicate": { "custom_model_data":87653 }, "model": "block/carved_pumpkin" }
+
+	]
+}

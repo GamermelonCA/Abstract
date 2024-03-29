@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_carrot"
+	},
+	"overrides": [
+	
+		{ "predicate": { "custom_model_data": 0 }, "model": "item/golden_carrot" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/lithium/burger2" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/lithium/duck" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/lithium/footlong" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/lithium/soup2" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/lithium/spaghetti" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/lithium/saschicken" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/golden_carrot" }
+		
+   ]
+}

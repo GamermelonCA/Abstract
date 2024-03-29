@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/totem_of_undying"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0 }, "model": "minecraft:item/totem_of_undying" },
+		
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/snazz/black_shroom_pet" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/snazz/black_axolotl" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/kerker/white_axolotl" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/tea/tea_axolotl" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "minecraft:item/totem_of_undying" }
+
+   ]
+}

@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+		"layer0": "item/iron_nugget"
+	},
+	"overrides": [
+	
+		{ "predicate": { "custom_model_data": 0 },"model": "item/iron_nugget" },
+		
+		{ "predicate": { "custom_model_data": 1 },"model": "item/iron_nugget" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/snazz/mushroom1" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/snazz/mushroom2" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/snazz/mushroom3" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/snazz/mushroom4" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/snazz/mushroom5" },
+		{ "predicate": { "custom_model_data": 7 },"model": "item/iron_nugget" },
+		
+		{ "predicate": { "custom_model_data": 200000 }, "model": "item/iron_nugget" },
+		{ "predicate": { "custom_model_data": 200001 }, "model": "item/lithium/diamond_nug" },
+		{ "predicate": { "custom_model_data": 200002 }, "model": "item/lithium/pc" },
+		{ "predicate": { "custom_model_data": 200003 }, "model": "item/lithium/herobrine" },
+		{ "predicate": { "custom_model_data": 200004 }, "model": "item/lithium/monitor" },
+		{ "predicate": { "custom_model_data": 200005 }, "model": "item/lithium/camera" },
+		{ "predicate": { "custom_model_data": 200006 }, "model": "item/lithium/armchair" },
+		{ "predicate": { "custom_model_data": 200007 }, "model": "item/iron_nugget" }
+	
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/netherite_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0 }, "model": "minecraft:item/netherite_sword" },
+
+		{ "predicate": { "custom_model_data": 1 }, "model": "minecraft:item/snazz/master_sword" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "minecraft:item/snazz/katana" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "minecraft:item/nemesis/longclaw" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "minecraft:item/gamermelon/mumkharclaw" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "minecraft:item/gamermelon/ringweapons" }
+		
+   ]
+}

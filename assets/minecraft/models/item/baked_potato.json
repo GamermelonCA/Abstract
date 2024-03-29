@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/baked_potato"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0 }, "model": "minecraft:item/baked_potato" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "minecraft:item/lithium/burger" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "minecraft:item/lithium/garlic_bread" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "minecraft:item/lithium/grape" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "minecraft:item/lithium/sandwich" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "minecraft:item/lithium/soup" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "minecraft:item/baked_potato" }
+   ]
+}
