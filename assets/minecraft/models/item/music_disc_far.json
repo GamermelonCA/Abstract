@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_far"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 0}, "model": "minecraft:item/music_disc_far"},
+    { "predicate": {"custom_model_data": 1}, "model": "minecraft:item/gamermelon/Neon"},
+    { "predicate": {"custom_model_data": 2}, "model": "minecraft:item/gamermelon/TerrariaDay"},
+    { "predicate": {"custom_model_data": 3}, "model": "minecraft:item/gamermelon/Float"}
+  ]
+}
