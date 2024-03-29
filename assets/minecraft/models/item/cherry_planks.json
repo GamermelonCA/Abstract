@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cherry_planks",
+  "overrides": [
+	{ "predicate": {"custom_model_data": 1}, "model": "minecraft:item/gamermelon/cherryarrowleft"},
+  { "predicate": {"custom_model_data": 2}, "model": "minecraft:item/gamermelon/cherryarrowright"}
+  ]
+}
