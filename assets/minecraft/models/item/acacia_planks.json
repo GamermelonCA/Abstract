@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/acacia_planks",
-  "overrides": [
-	{ "predicate": {"custom_model_data": 1}, "model": "minecraft:item/gamermelon/acaciaarrowleft"},
-  { "predicate": {"custom_model_data": 2}, "model": "minecraft:item/gamermelon/acaciaarrowlright"}
-  ]
-}
