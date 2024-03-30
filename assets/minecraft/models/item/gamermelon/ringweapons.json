@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "minecraft:item/gamermelon/ringtexture",
-		"particle": "minecraft:item/gamermelon/ringtexture"
+		"0": "minecraft:item/gamermelon/ringweapons",
+		"particle": "minecraft:item/gamermelon/ringweapons"
 	},
 	"elements": [
 		{
