@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:item/gamermelon/clawtexture",
-		"particle": "minecraft:item/gamermelon/clawtexture"
+		"0": "minecraft:item/gamermelon/mumkharclaw",
+		"particle": "minecraft:item/gamermelon/mumkharclaw"
 	},
 	"elements": [
 		{
