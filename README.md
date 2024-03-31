@@ -11,3 +11,4 @@ Things To do:
 - signs to be pixel consistant
 - signs include back supports so they are not floating
 
+- Fix Beer Mug missing texture when eating
