@@ -5,3 +5,7 @@ Things To do:
 - Fix Weapons Size when on head
 - disc shop voucher
 
+- signs texture fixe ("Arrow is skewed")
+- signs to be pixel consistant
+- signs include back supports so they are not floating
+
