@@ -1,6 +1,6 @@
---------------------------------
-Server Resourcepack for Abstract
---------------------------------
+------------------------------------
+Server Resourcepack for Abstract SMP
+------------------------------------
 
 Things To do:
 - Fix Master Sword First Person
