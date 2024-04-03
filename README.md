@@ -14,3 +14,4 @@ Things To do:
 - Fix Beer Mug missing texture when eating
 
 - Voucher Done --> upload textures and moddles
+- Coldrave texture fix --> pixel too high
