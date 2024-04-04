@@ -15,3 +15,4 @@ Things To do:
 
 - Voucher Done --> upload textures and moddles
 - Coldrave texture fix --> pixel too high
+- better vibrate texture
